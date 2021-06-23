@@ -122,31 +122,29 @@ $(document).ready(function () {
     <div class="container_12">
       <div class="wrapper">
         <article class="grid_4">
-          <h3 class="prev-indent-bot">Shortly About Us</h3>
-          <h6 class="p1">Sed ut perspiciatis unde omnis</h6>
+          <h3 class="prev-indent-bot">Arquitectura y ecologia</h3>
           <p class="img-indent-bot">«Yo hago lo que usted no puede, y usted hace lo que yo no puedo. Juntos podemos hacer grandes cosas». <br> Madre Teresa de Calcuta.</p>
           <a class="button" href="#"><span>Conocer más</span></a> </article>
         <article class="grid_4">
           <div class="indent-left">
-            <h3 class="p1">Fresh Articles</h3>
+            <h3 class="p1">Articulos relevantes</h3>
             <ul class="list-1">
-              <li><a href="#">Liste natus error sit voluptatem</a></li>
-              <li><a href="#">Accusantium doloremque laudantium</a></li>
-              <li><a href="#">Totam rem aperiam, eaque ipsa quae ab illo</a></li>
-              <li><a href="#">Inventore veritatis et quasi</a></li>
-              <li><a href="#">Architecto beatae vitae dicta sunt</a></li>
-              <li><a href="#">Nemo enim ipsam voluptatem</a></li>
-              <li><a href="#">Quia voluptas sit aspernatur aut odit aut</a></li>
-              <li><a href="#">Sed quia consequuntur magni dolores</a></li>
-              <li><a href="#">Eos qui ratione voluptatem sequi nesciunt</a></li>
-            </ul>
+              <li><a href="#">Proyecto ecologicó en América</a></li>
+              <li><a href="#">Implementa áreas verdes desde casa</a></li>
+              <li><a href="#">La educación y cuidado del medio ambiente</a></li>
+              <li><a href="#">Convive en áreas verdes</a></li>
+              <li><a href="#">Nueva ciudad ecológica en China</a></li>
+              <li><a href="#">Diseño de centros comerciales con paredes verdes</a></li>
+              <li><a href="#">Participa y plantea tu propuesta</a></li>
+              <li><a href="#">Vacantes en el área ecologica</a></li>
+              </ul>
           </div>
         </article>
         <article class="grid_4">
           <div class="indent-left2">
-            <h3>Our Locations</h3>
+            <h3>Conoce proyectos por el mundo</h3>
             <figure class="prev-indent-bot"><img src="images/page1-img10.jpg" alt=""></figure>
-            <a class="link-2" href="#">Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia.</a> </div>
+            <a class="link-2" href="#">Las mejores estructuras arquitectonicas con gran aportación de urbanización ecológica.</a> </div>
         </article>
       </div>
     </div>
