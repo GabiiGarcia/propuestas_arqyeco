@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Exterior Design |</title>
+<title>Arquitectura y urbanización ecológica</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -124,8 +124,8 @@ $(document).ready(function () {
         <article class="grid_4">
           <h3 class="prev-indent-bot">Shortly About Us</h3>
           <h6 class="p1">Sed ut perspiciatis unde omnis</h6>
-          <p class="img-indent-bot">PSD source files are available for free for the registered members of TemplatesMonster. The basic package is available for anyone without registration. This website template has several pages: <a class="link" href="index.html">Home Page</a>, <a class="link" href="#">Company</a>, <a class="link" href="services.html">Services</a>, <a class="link" href="#">Clients</a>, <a class="link" href="contacts.html">Contacts</a> (note that contact us form – doesn’t work).</p>
-          <a class="button" href="#"><span>read more</span></a> </article>
+          <p class="img-indent-bot">«Yo hago lo que usted no puede, y usted hace lo que yo no puedo. Juntos podemos hacer grandes cosas». <br> Madre Teresa de Calcuta.</p>
+          <a class="button" href="#"><span>Conocer más</span></a> </article>
         <article class="grid_4">
           <div class="indent-left">
             <h3 class="p1">Fresh Articles</h3>
