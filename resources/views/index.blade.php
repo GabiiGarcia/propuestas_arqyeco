@@ -44,12 +44,12 @@ $(document).ready(function () {
       <nav class="wrapper">
         <ul class="menu">
           <li><a class="active" href="index.html">Inicio</a></li>
-          <li><a href="about.html">¿Quiénes somos?</a></li>
-          <li><a href="services.html">Arquitectura y urbanización ecologica</a></li>
-          <li><a href="portfolio.html">Aplicación en el mundo</a></li>
-          <li><a href="pricelist.html">Propuestas</a></li>
-          <li><a href="pricelist.html">Ventajas</a></li>
-          <li><a href="contacts.html">Contacto</a></li>
+          <li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
+          <li><a href="arqyeco.blade.php">Arquitectura y urbanización ecologica</a></li>
+          <li><a href="aplicaccion.blade.php">Aplicación en el mundo</a></li>
+          <li><a href="propuestas.blade.php">Propuestas</a></li>
+          <li><a href="ventajas.blade.php">Ventajas</a></li>
+          <li><a href="contacto.blade.php">Contacto</a></li>
         </ul>
       </nav>
     </div>
@@ -64,15 +64,17 @@ $(document).ready(function () {
         <div class="slider-wrapper">
           <div class="slider">
             <ul class="items">
-              <li> <img src="images/slider-img1.jpg" alt=""> </li>
-              <li> <img src="images/slider-img2.jpg" alt=""> </li>
-              <li> <img src="images/slider-img3.jpg" alt=""> </li>
+              <li> <img src="images/slider1.jpg" alt=""> </li>
+              <li> <img src="images/slider2.jpg" alt=""> </li>
+              <li> <img src="images/slider3.jpg" alt=""> </li>
             </ul>
           </div>
         </div>
         <div class="wrapper">
           <figure class="img-indent2"><img src="images/page1-img1.png" alt=""></figure>
-          <div class="extra-wrap"> <strong class="text-1">Cuidemos del planeta desde nuestro hogar empleando areas o jardines verdes</strong> </div>
+          <div class="extra-wrap">  <strong class="text-1">El calentamiento global es uno (y no el más grave) de los principales problemas ecológicos. Es importante señalar la degradación de hábitats por contaminación, urbanismo y la problemática con las llamadas “especies invasoras”. Porello ayudemos nuestro planeta Tierra comenzando por nuestro hogar
+          <br>  
+          "La naturaleza se hace paisaje cuando el hombre la enmarca"</strong> </div>
         </div>
       </div>
     </div>
@@ -82,7 +84,7 @@ $(document).ready(function () {
 <aside>
   <div class="carousel"> <a class="prev"></a> <a class="next"></a>
     <div class="carousel-container">
-      <h3>Popular Design Projects</h3>
+      <h3>¡Bienvenido!</h3>
       <div class="jCarouselLite">
         <ul class="carousel-list">
           <li>
