@@ -66,13 +66,13 @@ $(document).ready(function () {
             <ul class="items">
               <li> <img src="images/slider1.jpg" alt=""> </li>
               <li> <img src="images/slider2.jpg" alt=""> </li>
-              <li> <img src="images/slider3.jpg" alt=""> </li>
-            </ul>
+              <li> <img src="images/slider3.jpg" alt=""> </li>            
+          </ul>
           </div>
         </div>
         <div class="wrapper">
           <figure class="img-indent2"><img src="images/page1-img1.png" alt=""></figure>
-          <div class="extra-wrap">  <strong class="text-1">El calentamiento global es uno (y no el más grave) de los principales problemas ecológicos. Es importante señalar la degradación de hábitats por contaminación, urbanismo y la problemática con las llamadas “especies invasoras”. Porello ayudemos nuestro planeta Tierra comenzando por nuestro hogar
+          <div class="extra-wrap"> <strong class="text-1">El calentamiento global es uno (y no el más grave) de los principales problemas ecológicos. Es importante señalar la degradación de hábitats por contaminación, urbanismo y la problemática con las llamadas “especies invasoras”. Porello ayudemos nuestro planeta Tierra comenzando por nuestro hogar
           <br>  
           "La naturaleza se hace paisaje cuando el hombre la enmarca"</strong> </div>
         </div>
