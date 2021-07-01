@@ -68,15 +68,23 @@
           <FONT color="red"><h3>....¿Que es?</h3></FONT>
           <div class="wrapper indent-bot">
 
-            <p> 
-De la arquitectura ecológica a la urbanización sostenible
 
-Es un paso que hemos vivido en otros ámbitos de nuestra vida y es de esperar que también ocurra en algo tan importante para nosotros como es la arquitectura y el urbanismo. Nos referimos a la evolución de considerar únicamente lo ambiental o ecológico, a desarrollar e integrar todas las vertientes de la sostenibilidad.</p>
-<p>Hacia una urbanización sostenible con técnicas ecointeligentes
-Por arquitectura verde o ecológica entendemos aquella que en su diseño busca optimizar los recursos naturales y los sistemas constructivos de tal modo que minimicen su impacto sobre el medio ambiente.</p>
-<p>Si bien la concepción de lo sostenible en la arquitectura se ha fundamentado principalmente en el cuidado ambiental, desde hace ya un tiempo han aparecido múltiples enfoques en los que se aborda el diseño arquitectónico desarrollando el concepto de sostenibilidad desde sus 3 vertientes: la económica, la social y, la ya comentada, medioambiental.</p>
-<p>Estos planteamientos nos permiten configurar una diversidad de espacios habitables con mejores rendimientos, en términos de sostenibilidad, respecto a las aproximaciones convencionales. Y como habrás intuido, esto es de suma importancia para los habitantes del Planeta, los presentes y los futuros.</p>
+            <center><img src="ventajas.blade.php" alt=""></center>
+            <p>Todo el propósito tras la construcción sostenible es conservar nuestro medio ambiente y eludir el agotamiento de los recursos naturales de la tierra. El proyecto nos permite: </p>
             
+            <ul type="circle">
+              <li>
+                
+    Resguardar el ecosistema</li>
+    <li>Reducir las emisiones</li>
+    <li>Mejorar calidad del aire y agua</li>
+    <li>Conservar el agua</li>
+    <li>Reducir los flujos de residuos y desechos, además de tener un control sobre los mismo</li>
+    <li>Preservar y restaurar los recursos naturales</li>
+    <li>mantener una temperatura constante</li>
+
+              </li>
+            </ul>
         </article>
       </div>
     </div>
