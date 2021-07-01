@@ -97,8 +97,8 @@ Por arquitectura verde o ecológica entendemos aquella que en su diseño busca o
 <footer>
   <div class="main">
     <div class="aligncenter">
-      <p class="p0">Copyright &copy; <a href="#">Domain Name</a> All Rights Reserved</p>
-      Design by <a target="_blank" href="http://www.templatemonster.com/">TemplateMonster.com</a></div>
+      <p class="p0">Copyright &copy; <a href="#">Nombre de dominio</a> ArqyEco</p>
+      Arquitectura y urbanización ecológica <a target="_blank" href="http://www.templatemonster.com/">arqyeco.com</a></div>
   </div>
 </footer>
 <script type="text/javascript">Cufon.now();</script>
