@@ -26,7 +26,14 @@
         <ul class="menu">
           <li><a class="active" href="index.html">Inicio</a></li>
           <li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
-          <li><a href="arqyeco.blade.php">Arquitectura y urbanización ecologica</a></li>
+          <li><a href="#">Arquitectura y urbanización ecologica</a>
+                                                        <ul>
+                                                            <li><a href="arqyeco.blade.php">¿Que es?</a></li>
+                                                            <li><a href="principios.blade.php">Principio</a></li>
+                                                            <li><a href="empresas.blade.php">Empresas</a></li>
+
+                                                        </ul>
+                                                    </li> 
           <li><a href="aplicaccion.blade.php">Aplicación en el mundo</a></li>
           <li><a href="propuestas.blade.php">Propuestas</a></li>
           <li><a href="ventajas.blade.php">Ventajas</a></li>
@@ -51,28 +58,21 @@
     <div class="container_12">
       <div class="wrapper">
         <article class="grid_3">
-          <h3 class="p1">Articulos relevantes</h3>
-            <ul class="list-1">
-              <li><a href="#">Proyecto ecologicó en América</a></li>
-              <li><a href="#">Implementa áreas verdes desde casa</a></li>
-              <li><a href="#">La educación y cuidado del medio ambiente</a></li>
-              <li><a href="#">Convive en áreas verdes</a></li>
-              <li><a href="#">Nueva ciudad ecológica en China</a></li>
-              <li><a href="#">Diseño de centros comerciales con paredes verdes</a></li>
-              <li><a href="#">Participa y plantea tu propuesta</a></li>
-              <li><a href="#">Vacantes en el área ecologica</a></li>
-              </ul>
-          </ul>
+          
         </article>
         <article class="grid_9">
           <FONT color="red"><h3>....¿Que es?</h3></FONT>
           <div class="wrapper indent-bot">
 
 
-            <center><img src="ventajas.blade.php" alt=""></center>
+            <center><img src="images/ventajas.webp" alt=""></center>
+
+            <p>El realidad la definición de arquitectura verde es referente a una traducción errónea de las denominaciones en inglés “Green buildings” o “Green architecture” donde en realidad se habla de “Edificios sostenibles” y “Arquitectura sostenible”, por lo que el concepto sustentable o sostenible en la arquitectura.</p>
+
+            <h2>Beneficios Ambientales</h2>
             <p>Todo el propósito tras la construcción sostenible es conservar nuestro medio ambiente y eludir el agotamiento de los recursos naturales de la tierra. El proyecto nos permite: </p>
             
-            <ul type="circle">
+            <ul class="list-1">
               <li>
                 
     Resguardar el ecosistema</li>
@@ -83,7 +83,19 @@
     <li>Preservar y restaurar los recursos naturales</li>
     <li>mantener una temperatura constante</li>
 
-              </li>
+            </ul>
+
+            <h2>Beneficios Economicos</h2>
+            <p>No solo con la construcción sostenible se prosperar la calidad de nuestro medio ambiente, asimismo tiene muchos beneficios económicos. A través del empleo de materiales sostenibles, reduciendo el consumo de energía y el control eficaz del agua le permitirá: </p>
+            
+            <ul class="list-1">
+              
+    <li>Reducir los costos de operación</li>
+    <li>Optima el ciclo de vida del edificio</li>
+    <li>Aumenta propiedad valor</li>
+    <li>Prosperar de la productividad de los ocupantes y calidad de vida</li>
+
+
             </ul>
         </article>
       </div>
