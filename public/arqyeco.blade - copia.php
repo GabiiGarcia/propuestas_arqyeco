@@ -53,20 +53,15 @@
         <article class="grid_3">
           <h3 class="p1">Articulos relevantes</h3>
             <ul class="list-1">
-                        <li><a class="active" href="index.html">Inicio</a></li>
-          <li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
-          <li><a href="#">Arquitectura y urbanizacion ecologica</a>
-                                                        <ul>
-                                                            <li><a href="arqyeco.blade.php">¿Que es?</a></li>
-                                                            <li><a href="principios.blade.php">Principio</a></li>
-                                                            <li><a href="empresas.blade.php">Empresas</a></li>
-
-                                                        </ul>
-                                                    </li> 
-          <li><a href="aplicaccion.blade.php">Aplicación en el mundo</a></li>
-          <li><a href="propuestas.blade.php">Propuestas</a></li>
-          <li><a href="ventajas.blade.php">Ventajas</a></li>
-          <li><a href="contacto.blade.php">Contacto</a></li>
+              <li><a href="#">Proyecto ecologicó en América</a></li>
+              <li><a href="#">Implementa áreas verdes desde casa</a></li>
+              <li><a href="#">La educación y cuidado del medio ambiente</a></li>
+              <li><a href="#">Convive en áreas verdes</a></li>
+              <li><a href="#">Nueva ciudad ecológica en China</a></li>
+              <li><a href="#">Diseño de centros comerciales con paredes verdes</a></li>
+              <li><a href="#">Participa y plantea tu propuesta</a></li>
+              <li><a href="#">Vacantes en el área ecologica</a></li>
+              </ul>
           </ul>
         </article>
         <article class="grid_9">

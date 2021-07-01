@@ -43,9 +43,16 @@ $(document).ready(function () {
     <div class="main">
       <nav class="wrapper">
         <ul class="menu">
-          <li><a class="active" href="index.html">Inicio</a></li>
+                    <li><a class="active" href="index.html">Inicio</a></li>
           <li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
-          <li><a href="arqyeco.blade.php">Arquitectura y urbanización ecologica</a></li>
+          <li><a href="#">Arquitectura y urbanizacion ecologica</a>
+                                                        <ul>
+                                                            <li><a href="arqyeco.blade.php">¿Que es?</a></li>
+                                                            <li><a href="principios.blade.php">Principio</a></li>
+                                                            <li><a href="empresas.blade.php">Empresas</a></li>
+
+                                                        </ul>
+                                                    </li> 
           <li><a href="aplicaccion.blade.php">Aplicación en el mundo</a></li>
           <li><a href="propuestas.blade.php">Propuestas</a></li>
           <li><a href="ventajas.blade.php">Ventajas</a></li>
