@@ -30,7 +30,7 @@
                                                         <ul>
                                                             <li><a href="arqyeco.blade.php">¿Que es?</a></li>
                                                             <li><a href="principios.blade.php">Principio</a></li>
-                                                            <li><a href="empresas.blade.php">Empresas</a></li>
+                                                            <li><a href="empresas.blade.php">Proyectos</a></li>
 
                                                         </ul>
                                                     </li> 
@@ -77,7 +77,7 @@
           </ul>
         </article>
         <article class="grid_9">
-          <h3>Exterior Design Ideas</h3>
+          <FONT color="red"><h3>Proyectos</h3></FONT>
           <div class="wrapper indent-bot">
             <div class="col-1">
               <div class="p2">
