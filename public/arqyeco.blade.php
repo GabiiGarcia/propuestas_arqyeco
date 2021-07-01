@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Exterior Design | Services</title>
+<title>Arquitectura y urbanización ecológica</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -24,12 +24,13 @@
     <div class="main">
       <nav class="wrapper">
         <ul class="menu">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About us</a></li>
-          <li><a class="active" href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="pricelist.html">Pricelist</a></li>
-          <li><a href="contacts.html">Contacts</a></li>
+          <li><a class="active" href="index.html">Inicio</a></li>
+          <li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
+          <li><a href="arqyeco.blade.php">Arquitectura y urbanización ecologica</a></li>
+          <li><a href="aplicaccion.blade.php">Aplicación en el mundo</a></li>
+          <li><a href="propuestas.blade.php">Propuestas</a></li>
+          <li><a href="ventajas.blade.php">Ventajas</a></li>
+          <li><a href="contacto.blade.php">Contacto</a></li>
         </ul>
       </nav>
     </div>
@@ -38,8 +39,7 @@
     <div class="row-bot-bg">
       <div class="main">
         <div class="wrapper">
-          <h1><a href="index.html">Exterior Design</a></h1>
-          <h2>Decorate Your Life With Us!</h2>
+          <h1><a href="index.html">Inicio</a></h1>
         </div>
       </div>
     </div>
@@ -51,86 +51,32 @@
     <div class="container_12">
       <div class="wrapper">
         <article class="grid_3">
-          <h3 class="p1">Services List</h3>
-          <ul class="list-1">
-            <li><a href="#">Nam liber tempor cum soluta</a></li>
-            <li><a href="#">nobis</a></li>
-            <li><a href="#">Eleifend option congue nihil</a></li>
-            <li><a href="#">Imperdiet doming id quod </a></li>
-            <li><a href="#">mazim placerat</a></li>
-            <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-            <li><a href="#">Consectetuer adipiscing elit</a></li>
-            <li><a href="#">sed diam</a></li>
-            <li><a href="#">Nonummy nibh euismod </a></li>
-            <li><a href="#">tincidunt</a></li>
-            <li><a href="#">Laoreet dolore magna aliquam</a></li>
-            <li><a href="#">erat volutpat</a></li>
+          <h3 class="p1">Articulos relevantes</h3>
+            <ul class="list-1">
+              <li><a href="#">Proyecto ecologicó en América</a></li>
+              <li><a href="#">Implementa áreas verdes desde casa</a></li>
+              <li><a href="#">La educación y cuidado del medio ambiente</a></li>
+              <li><a href="#">Convive en áreas verdes</a></li>
+              <li><a href="#">Nueva ciudad ecológica en China</a></li>
+              <li><a href="#">Diseño de centros comerciales con paredes verdes</a></li>
+              <li><a href="#">Participa y plantea tu propuesta</a></li>
+              <li><a href="#">Vacantes en el área ecologica</a></li>
+              </ul>
           </ul>
         </article>
         <article class="grid_9">
-          <h3>Exterior Design Ideas</h3>
+          <FONT color="red"><h3>....¿Que es?</h3></FONT>
           <div class="wrapper indent-bot">
-            <div class="col-1">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img1.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Sed ut perspiciatis unde</h6>
-              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
-            <div class="col-1">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img2.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Duis autem vel eum iriure </h6>
-              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
-            <div class="col-2">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img3.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Iusto odio dignissim qui </h6>
-              Blandit praesent luptatum zoril delenit augue duis dolore te nostrud exerci tation ullamcorper feugait nulla facilisi. </div>
-          </div>
-          <div class="wrapper indent-bot">
-            <div class="col-1">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img4.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Sed ut perspiciatis unde</h6>
-              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
-            <div class="col-1">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img5.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Duis autem vel eum iriure </h6>
-              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
-            <div class="col-2">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img6.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Iusto odio dignissim qui </h6>
-              Blandit praesent luptatum zoril delenit augue duis dolore te nostrud exerci tation ullamcorper feugait nulla facilisi. </div>
-          </div>
-          <div class="wrapper">
-            <div class="col-1">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img7.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Sed ut perspiciatis unde</h6>
-              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
-            <div class="col-1">
-              <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img8.jpg" alt=""></a></figure>
-                <div class="clear"></div>
-              </div>
-              <h6 class="p1">Duis autem vel eum iriure </h6>
-              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
-          </div>
+
+            <p> 
+De la arquitectura ecológica a la urbanización sostenible
+
+Es un paso que hemos vivido en otros ámbitos de nuestra vida y es de esperar que también ocurra en algo tan importante para nosotros como es la arquitectura y el urbanismo. Nos referimos a la evolución de considerar únicamente lo ambiental o ecológico, a desarrollar e integrar todas las vertientes de la sostenibilidad.</p>
+<p>Hacia una urbanización sostenible con técnicas ecointeligentes
+Por arquitectura verde o ecológica entendemos aquella que en su diseño busca optimizar los recursos naturales y los sistemas constructivos de tal modo que minimicen su impacto sobre el medio ambiente.</p>
+<p>Si bien la concepción de lo sostenible en la arquitectura se ha fundamentado principalmente en el cuidado ambiental, desde hace ya un tiempo han aparecido múltiples enfoques en los que se aborda el diseño arquitectónico desarrollando el concepto de sostenibilidad desde sus 3 vertientes: la económica, la social y, la ya comentada, medioambiental.</p>
+<p>Estos planteamientos nos permiten configurar una diversidad de espacios habitables con mejores rendimientos, en términos de sostenibilidad, respecto a las aproximaciones convencionales. Y como habrás intuido, esto es de suma importancia para los habitantes del Planeta, los presentes y los futuros.</p>
+            
         </article>
       </div>
     </div>
