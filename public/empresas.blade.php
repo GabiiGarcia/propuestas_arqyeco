@@ -23,7 +23,7 @@
   <div class="menu-row">
     <div class="main">
       <nav class="wrapper">
-        <ul class="menu">
+<ul class="menu">
           <li><a class="active" href="index.html">Inicio</a></li>
           <li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
           <li><a href="#">Arquitectura y urbanización ecologica</a>
@@ -38,7 +38,8 @@
           <li><a href="propuestas.blade.php">Propuestas</a></li>
           <li><a href="ventajas.blade.php">Ventajas</a></li>
           <li><a href="contacto.blade.php">Contacto</a></li>
-        </ul>      </nav>
+        </ul>
+      </nav>
     </div>
   </div>
   <div class="row-bot">
@@ -76,18 +77,69 @@
           </ul>
         </article>
         <article class="grid_9">
-          <FONT color="red"><h3>....¿Que es?</h3></FONT>
+          <h3>Exterior Design Ideas</h3>
           <div class="wrapper indent-bot">
-
-            <p> 
-De la arquitectura ecológica a la urbanización sostenible
-
-Es un paso que hemos vivido en otros ámbitos de nuestra vida y es de esperar que también ocurra en algo tan importante para nosotros como es la arquitectura y el urbanismo. Nos referimos a la evolución de considerar únicamente lo ambiental o ecológico, a desarrollar e integrar todas las vertientes de la sostenibilidad.</p>
-<p>Hacia una urbanización sostenible con técnicas ecointeligentes
-Por arquitectura verde o ecológica entendemos aquella que en su diseño busca optimizar los recursos naturales y los sistemas constructivos de tal modo que minimicen su impacto sobre el medio ambiente.</p>
-<p>Si bien la concepción de lo sostenible en la arquitectura se ha fundamentado principalmente en el cuidado ambiental, desde hace ya un tiempo han aparecido múltiples enfoques en los que se aborda el diseño arquitectónico desarrollando el concepto de sostenibilidad desde sus 3 vertientes: la económica, la social y, la ya comentada, medioambiental.</p>
-<p>Estos planteamientos nos permiten configurar una diversidad de espacios habitables con mejores rendimientos, en términos de sostenibilidad, respecto a las aproximaciones convencionales. Y como habrás intuido, esto es de suma importancia para los habitantes del Planeta, los presentes y los futuros.</p>
-            
+            <div class="col-1">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img1.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Sed ut perspiciatis unde</h6>
+              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
+            <div class="col-1">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img2.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Duis autem vel eum iriure </h6>
+              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
+            <div class="col-2">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img3.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Iusto odio dignissim qui </h6>
+              Blandit praesent luptatum zoril delenit augue duis dolore te nostrud exerci tation ullamcorper feugait nulla facilisi. </div>
+          </div>
+          <div class="wrapper indent-bot">
+            <div class="col-1">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img4.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Sed ut perspiciatis unde</h6>
+              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
+            <div class="col-1">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img5.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Duis autem vel eum iriure </h6>
+              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
+            <div class="col-2">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img6.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Iusto odio dignissim qui </h6>
+              Blandit praesent luptatum zoril delenit augue duis dolore te nostrud exerci tation ullamcorper feugait nulla facilisi. </div>
+          </div>
+          <div class="wrapper">
+            <div class="col-1">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img7.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Sed ut perspiciatis unde</h6>
+              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
+            <div class="col-1">
+              <div class="p2">
+                <figure class="img-border"><a href="#"><img src="images/page3-img8.jpg" alt=""></a></figure>
+                <div class="clear"></div>
+              </div>
+              <h6 class="p1">Duis autem vel eum iriure </h6>
+              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
+          </div>
         </article>
       </div>
     </div>
