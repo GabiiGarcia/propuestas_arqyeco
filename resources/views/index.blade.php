@@ -43,7 +43,7 @@ $(document).ready(function () {
     <div class="main">
       <nav class="wrapper">
         <ul class="menu">
-                    <li><a class="active" href="index.html">Inicio</a></li>
+                    <li><a class="active" href="index.blade.php">Inicio</a></li>
           <li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
           <li><a href="#">Arquitectura y urbanizacion ecologica</a>
                                                         <ul>

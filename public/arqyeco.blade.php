@@ -65,7 +65,7 @@
                                                         <ul>
                                                             <li><a href="arqyeco.blade.php">¿Que es?</a></li>
                                                             <li><a href="principios.blade.php">Principio</a></li>
-                                                            <li><a href="empresas.blade.php">Empresas</a></li>
+                                                            <li><a href="empresas.blade.php">Proyectos</a></li>
 
                                                         </ul>
                                                     </li> 

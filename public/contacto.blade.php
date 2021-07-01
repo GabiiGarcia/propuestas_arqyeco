@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Exterior Design | Contacts</title>
+<title>Arquitectura y urbanización ecológica</title>
 <meta charset="utf-8">
 <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
 <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
@@ -24,12 +24,20 @@
     <div class="main">
       <nav class="wrapper">
         <ul class="menu">
-          <li><a href="index.html">Home</a></li>
-          <li><a href="about.html">About us</a></li>
-          <li><a href="services.html">Services</a></li>
-          <li><a href="portfolio.html">Portfolio</a></li>
-          <li><a href="pricelist.html">Pricelist</a></li>
-          <li><a class="active" href="contacts.html">Contacts</a></li>
+                    <li><a class="active" href="index.blade.php">Inicio</a></li>
+          <li><a href="quienessomos.blade.php">¿Quienes somos?</a></li>
+          <li><a href="#">Arquitectura y urbanizacion ecologica</a>
+                                                        <ul>
+                                                            <li><a href="arqyeco.blade.php">¿Que es?</a></li>
+                                                            <li><a href="principios.blade.php">Principio</a></li>
+                                                            <li><a href="empresas.blade.php">Empresas</a></li>
+
+                                                        </ul>
+                                                    </li> 
+          <li><a href="aplicaccion.blade.php">Aplicacion en el mundo</a></li>
+          <li><a href="propuestas.blade.php">Propuestas</a></li>
+          <li><a href="ventajas.blade.php">Ventajas</a></li>
+          <li><a href="contacto.blade.php">Contacto</a></li>
         </ul>
       </nav>
     </div>
@@ -38,9 +46,8 @@
     <div class="row-bot-bg">
       <div class="main">
         <div class="wrapper">
-          <h1><a href="index.html">Exterior Design</a></h1>
-          <h2>Decorate Your Life With Us!</h2>
-        </div>
+          <h1><a href="index.html">Inicio</a></h1>
+          </div>
       </div>
     </div>
   </div>
@@ -51,7 +58,7 @@
     <div class="container_12">
       <div class="wrapper">
         <article class="grid_4">
-          <h3>Our Contacts</h3>
+          <h3>Datos de contacto</h3>
           <div class="img-indent-bot">
             <figure class="img-border2">
               <iframe width="200" height="162" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
@@ -59,29 +66,28 @@
             <div class="clear"></div>
           </div>
           <dl>
-            <dt class="p1">USA 8901 Marmora Rd, Glasgow</dt>
-            <dd><span>Freephone:</span> +1 800 559 6580</dd>
-            <dd><span>Telephone:</span> +1 800 603 6035</dd>
-            <dd><span>Fax:</span> +1 800 889 9898</dd>
-            <dd><span>Email:</span> <a href="#">mail@demolink.org</a></dd>
+            <dt class="p1">Maravatio, Michoacan</dt>
+            <dd><span>Telefono 1:</span> +52 447 121 3425</dd>
+            <dd><span>Telefono 2:</span> +52 447 356 7654</dd>
+            <dd><span>Correo:</span> <a href="#">arqyeco@gmail.com</a></dd>
           </dl>
         </article>
         <article class="grid_8">
-          <h3>Contact Form</h3>
+          <h3>Formulario de contacto</h3>
           <form id="contact-form" action="#" method="post" enctype="multipart/form-data">
             <fieldset>
-              <label><span class="text-form">Your Name:</span>
+              <label><span class="text-form">Nombre:</span>
                 <input type="text">
               </label>
-              <label><span class="text-form">Your Email:</span>
+              <label><span class="text-form">Correo electronico:</span>
                 <input type="text">
               </label>
               <div class="wrapper">
-                <div class="text-form">Your Message:</div>
+                <div class="text-form">Mensaje:</div>
                 <div class="extra-wrap">
                   <textarea></textarea>
                   <div class="clear"></div>
-                  <div class="buttons"> <a class="button"><span>clear</span></a> <a class="button"><span>send</span></a> </div>
+                  <div class="buttons"> <a class="button"><span>Borrar</span></a> <a class="button"><span>Enviar</span></a> </div>
                 </div>
               </div>
             </fieldset>
@@ -95,8 +101,8 @@
 <footer>
   <div class="main">
     <div class="aligncenter">
-      <p class="p0">Copyright &copy; <a href="#">Domain Name</a> All Rights Reserved</p>
-      Design by <a target="_blank" href="http://www.templatemonster.com/">TemplateMonster.com</a></div>
+      <p class="p0">Copyright &copy; <a href="#">Nombre de dominio</a> ArqyEco</p>
+      Arquitectura y urbanización ecológica <a target="_blank" href="http://www.templatemonster.com/">arqyeco.com</a></div>
   </div>
 </footer>
 <script type="text/javascript">Cufon.now();</script>
