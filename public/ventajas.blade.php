@@ -61,15 +61,15 @@
           
         </article>
         <article class="grid_9">
-          <FONT color="red"><h3>....¿Que es?</h3></FONT>
+          <FONT color="red"><h3>Ventajas</h3></FONT>
           <div class="wrapper indent-bot">
 
 
-            <center><img src="images/ventajas.webp" alt=""></center>
+            <center><img src="images/Slider2.jpg" alt=""></center>
 
             <p>El realidad la definición de arquitectura verde es referente a una traducción errónea de las denominaciones en inglés “Green buildings” o “Green architecture” donde en realidad se habla de “Edificios sostenibles” y “Arquitectura sostenible”, por lo que el concepto sustentable o sostenible en la arquitectura.</p>
 
-            <h2>Beneficios Ambientales</h2>
+            <h3>Beneficios Ambientales</h3>
             <p>Todo el propósito tras la construcción sostenible es conservar nuestro medio ambiente y eludir el agotamiento de los recursos naturales de la tierra. El proyecto nos permite: </p>
             
             <ul class="list-1">
@@ -85,7 +85,7 @@
 
             </ul>
 
-            <h2>Beneficios Economicos</h2>
+            <h3>Beneficios Economicos</h3>
             <p>No solo con la construcción sostenible se prosperar la calidad de nuestro medio ambiente, asimismo tiene muchos beneficios económicos. A través del empleo de materiales sostenibles, reduciendo el consumo de energía y el control eficaz del agua le permitirá: </p>
             
             <ul class="list-1">
@@ -98,7 +98,7 @@
 
             </ul>
 
-            <h2>Beneficios Sociales</h2>
+            <h3>Beneficios Sociales</h3>
             <p>Si bien las ventajas ambientales y económicos de las edificaciones verdes son muy conocidos, las ventajas sociales de las construcciones verdes son de manera frecuentemente ignoradas. A través de la mejora de la calidad ambiental interior se puede: </p>
             
             <ul class="list-1">
