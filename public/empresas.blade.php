@@ -81,64 +81,64 @@
           <div class="wrapper indent-bot">
             <div class="col-1">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img1.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/edificio_eni.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Sed ut perspiciatis unde</h6>
-              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
+              <h6 class="p1">Edificio ENI (Roma, Italia)</h6>
+              El proyecto es el resultado de una transformación radical de la sede actual de la empresa petroquímica ENI situada en las afueras de Roma. Se caracteriza por el rediseño de las fachadas orientadas al este y al oeste, que confieren al edificio la imagen de un verdadero "jardín vertical" de veinte pisos de altura.</div>
             <div class="col-1">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img2.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/edificio_acros.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Duis autem vel eum iriure </h6>
-              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
+              <h6 class="p1">Edificio Acros (Fukuoka, Japón)</h6>
+              Este proyecto combina el uso rentable del suelo con la necesidad ciudadana de espacios verdes abiertos. El edificio, de 60 metros de altura, alberga en su cubierta un sistema de terrazas que configuran un parque. Esta cubierta verde, además de oxigenar la ciudad, conserva la temperatura del edificio manteniéndola a niveles constantes; lo que incide en un bajo consumo energético.  </div>
             <div class="col-2">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img3.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/viviendas100k.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Iusto odio dignissim qui </h6>
-              Blandit praesent luptatum zoril delenit augue duis dolore te nostrud exerci tation ullamcorper feugait nulla facilisi. </div>
+              <h6 class="p1">Viviendas 100 K (Prototipo)</h6>
+              Presenta un diseño residencial con tres características esenciales: bajo precio, materiales de alta calidad y cero emisiones de CO2, sin olvidar un diseño realmente atractivo. Produce energía a través de una serie de estrategias que la convierten en una máquina bioclimática eficiente.</div>
           </div>
           <div class="wrapper indent-bot">
             <div class="col-1">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img4.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/edificio_cset.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Sed ut perspiciatis unde</h6>
-              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
+              <h6 class="p1">Edificio CSET (Ningbo, China)</h6>
+              El Centro de Tecnologías Sustentables (Centre for Sustainable Energy Technologies) es el primer edificio con cero emisiones en China y su diseño está inspirado en las linternas típicas del país, utilizando pantallas de madera tradicionales, abanicos y pantallas articuladas con vidrio laminado, que varían la apariencia del edificio del día a la noche. </div>
             <div class="col-1">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img5.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/masdar_city.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Duis autem vel eum iriure </h6>
-              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
+              <h6 class="p1">Masdar City (Abu Dhabi)</h6>
+              El proyecto para la ciudad de Masdar supone una colonización del desierto. Su nombre significa fuente y manantial. Situada a 15 km de Abu Dhabi, será la primera ciudad autosuficiente y libre de CO2. Todo gira en torno a las energías renovables. La ciudad se desarrolla bajo tierra a través de laberintos que juegan con la incidencia de la luz y la ventilación.</div>
             <div class="col-2">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img6.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/free-university.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Iusto odio dignissim qui </h6>
-              Blandit praesent luptatum zoril delenit augue duis dolore te nostrud exerci tation ullamcorper feugait nulla facilisi. </div>
+              <h6 class="p1">Free University Berlin (Alemania) </h6>
+              Curiosamente la biblioteca de esta universidad es conocida como “el cráneo de Berlín” debido a la forma que presenta, El proyecto abarca la restauración de los edificios modernistas y la creación de una nueva biblioteca para la facultad de Filología. </div>
           </div>
           <div class="wrapper">
             <div class="col-1">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img7.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/geada-2055.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Sed ut perspiciatis unde</h6>
-              Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. </div>
+              <h6 class="p1">GEODA 2055 (Mondragón, Guipúzcoa)</h6>
+              El propósito del proyecto es ampliar la ciudad de Mondragón sobre una cantera adyacente y al mismo tiempo recuperar el ecosistema degradado. El conjunto se asemeja a una “geoda” gigantesca y cada cubo parece uno de sus cristales asomándose al exterior.</div>
             <div class="col-1">
               <div class="p2">
-                <figure class="img-border"><a href="#"><img src="images/page3-img8.jpg" alt=""></a></figure>
+                <figure class="img-border"><a href="#"><img src="images/genesis-center.jpg" alt=""></a></figure>
                 <div class="clear"></div>
               </div>
-              <h6 class="p1">Duis autem vel eum iriure </h6>
-              Dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. </div>
+              <h6 class="p1">Génesis Center (Taunton, Reino Unido) </h6>
+              El edificio es un centro de conferencias en pleno funcionamiento que supone un auténtico muestrario de técnicas y materiales de construcción sostenible. El proyecto, que ofrece un acercamiento integral a lo sostenible, pretende enseñar y educar sobre una nueva forma de pensar, más osada en cuanto al diseño ecológico contemporáneo. </div>
           </div>
         </article>
       </div>
