@@ -72,17 +72,55 @@
           </ul>
         </article>
         <article class="grid_9">
-          <FONT color="red"><h3>....¿Que es?</h3></FONT>
+          <FONT color="red"><h2>Principios</h2></FONT>
           <div class="wrapper indent-bot">
 
-            <p> 
-De la arquitectura ecológica a la urbanización sostenible
+<h3>Los principios son los siguientes:</h3>
 
-Es un paso que hemos vivido en otros ámbitos de nuestra vida y es de esperar que también ocurra en algo tan importante para nosotros como es la arquitectura y el urbanismo. Nos referimos a la evolución de considerar únicamente lo ambiental o ecológico, a desarrollar e integrar todas las vertientes de la sostenibilidad.</p>
-<p>Hacia una urbanización sostenible con técnicas ecointeligentes
-Por arquitectura verde o ecológica entendemos aquella que en su diseño busca optimizar los recursos naturales y los sistemas constructivos de tal modo que minimicen su impacto sobre el medio ambiente.</p>
-<p>Si bien la concepción de lo sostenible en la arquitectura se ha fundamentado principalmente en el cuidado ambiental, desde hace ya un tiempo han aparecido múltiples enfoques en los que se aborda el diseño arquitectónico desarrollando el concepto de sostenibilidad desde sus 3 vertientes: la económica, la social y, la ya comentada, medioambiental.</p>
-<p>Estos planteamientos nos permiten configurar una diversidad de espacios habitables con mejores rendimientos, en términos de sostenibilidad, respecto a las aproximaciones convencionales. Y como habrás intuido, esto es de suma importancia para los habitantes del Planeta, los presentes y los futuros.</p>
+<h3>1 Gestion</h3>
+
+<p>Desde el diseño se orienta a la sustentabilidad. Se planifica para que no exista impactos ambientales o en su caso que si exista, crear medidas de mitigación.</p>
+
+<h3>2 Salud y bienestar</h3>
+
+<p>Se orienta a espacios con confort  térmico, acústico y lumínico,  creados con elementos de la naturaleza para los ocupantes de la construcción.</p>
+
+<h3>3 Energia</h3>
+
+<p>Mediante la eficiencia energética, el uso de energías renovables y la optimización de iluminación y ventilación natural se reduce las emisiones de gases invernadero. </p>
+
+<h3>4 Transporte</h3>
+
+<p>Se fomenta el uso de transporte ecológicos como la bicicleta o a pie, dando infraestructura adecuada para motivar a las personas al uso de transporte ecológico.</p>
+
+<h3>5 Agua</h3>
+
+<p>Se busca reducir el consumo del agua mediante equipos ahorrador (WC ecológicos, llaves ecológicas, etc), el uso de lluvia, la reutilización del agua y el uso de plantas de tratamiento de agua.</p>
+
+<h3>6 Materiales</h3>
+
+<p>Se busca construir con materiales con origen sustentables, reciclados, renovables y locales. Construir con materiales de buena calidad para que duren mucho tiempo.  El uso de materias locales reduce en el tiempo de transporte, se reduce el combustible y la contaminación. </p>
+
+
+
+<h3>7 Residuos</h3>
+
+<p>El  objetivo de un plan de manejo de residuos se minimiza la generación y se maximiza la valorización de residuos sólidos urbanos, residuos de manejo especial y residuos peligrosos específicos, bajo criterios de eficiencia ambiental.</p>
+
+<h3>8 Uso de suelo</h3>
+
+<p>El propósito es evitar el cambio de uso de suelos naturales a suelos urbanos. Se propone el reuso de edificios y espacios urbanos abandonados. También se regula el excesivo crecimiento de las ciudades a las periferias. </p>
+
+<h3>9 Contaminacion</h3>
+
+<p>Se propone reduce y evitar la contaminación desde la etapa de construcción y la etapa de ocupación del sitio. Con distintas medidas se debe reducir la contaminación de agua, aire y de los suelos. También proteger la biodiversidad.</p>
+
+<h3>10 Innovacion</h3>
+
+<p>Explorar en la investigación en el ámbito de la sustentabilidad para buscar mejoras en las técnicas y productos sustentables.
+
+
+</p>
             
         </article>
       </div>
