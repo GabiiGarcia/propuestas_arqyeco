@@ -97,6 +97,22 @@
 
 
             </ul>
+
+            <h2>Beneficios Sociales</h2>
+            <p>Si bien las ventajas ambientales y económicos de las edificaciones verdes son muy conocidos, las ventajas sociales de las construcciones verdes son de manera frecuentemente ignoradas. A través de la mejora de la calidad ambiental interior se puede: </p>
+            
+            <ul class="list-1">
+              
+    
+    <li>Mejorar confort y salud</li>
+    <li>Crear un ambiente estéticamente placentero</li>
+    <li>Minimiza riesgos en la infraestructura</li>
+    <li>Mejora de la moral de los ocupantes</li>
+    <li>Mejora la productividad del trabajador</li>
+
+
+
+            </ul>
         </article>
       </div>
     </div>
