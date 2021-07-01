@@ -24,7 +24,7 @@
     <div class="main">
       <nav class="wrapper">
         <ul class="menu">
-                    <li><a class="active" href="index.blade.php">Inicio</a></li>
+                    <li><a class="active" href="../resources/views/index.blade.php">Inicio</a></li>
           <li><a href="quienessomos.blade.php">¿Quienes somos?</a></li>
           <li><a href="#">Arquitectura y urbanizacion ecologica</a>
                                                         <ul>
@@ -101,8 +101,11 @@
 <footer>
   <div class="main">
     <div class="aligncenter">
-      <p class="p0">Copyright &copy; <a href="#">Nombre de dominio</a> ArqyEco</p>
-      Arquitectura y urbanización ecológica <a target="_blank" href="http://www.templatemonster.com/">arqyeco.com</a></div>
+      <p class="p0"> ArqyEco</p>
+      Arquitectura y urbanización ecológica <a target="_blank" href="http://www.templatemonster.com/">arqyeco.com</a><p class="p0" align="left"> </p>
+      <a href="#" >propuestasarqyeco@gmail.com</a>
+      <img src="images/maps-and-flags.png" width="10dp" height="15dp">
+     <a>Maravatio, Michoacan</a></div>
   </div>
 </footer>
 <script type="text/javascript">Cufon.now();</script>
