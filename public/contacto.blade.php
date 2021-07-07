@@ -62,7 +62,8 @@
             <h3>Datos de contacto</h3>
             <div class="img-indent-bot">
               <figure class="img-border2">
-                <iframe width="200" height="162" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Brooklyn,+New+York,+NY,+United+States&amp;aq=0&amp;sll=37.0625,-95.677068&amp;sspn=61.282355,146.513672&amp;ie=UTF8&amp;hq=&amp;hnear=Brooklyn,+Kings,+New+York&amp;ll=40.649974,-73.950005&amp;spn=0.01628,0.025663&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+                <iframe width="200" height="162" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7503.467121265492!2d-100.44638237820456!3d19.89346948514017!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2d09d28f95e93%3A0x91a0d188ce6d3241!2sCentro%2C%20Maravatio%2C%20Mich.!5e0!3m2!1ses-419!2smx!4v1625635904612!5m2!1ses-419!2smx"></iframe>
+               
               </figure>
               <div class="clear"></div>
             </div>
