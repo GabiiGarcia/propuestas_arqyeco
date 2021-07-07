@@ -38,6 +38,7 @@
             <li><a href="propuestas.blade.php">Propuestas</a></li>
             <li><a href="ventajas.blade.php">Ventajas</a></li>
             <li><a href="contacto.blade.php">Contacto</a></li>
+            <li><a href="login.blade.php">Iniciar sesion</a></li>
           </ul>
         </nav>
       </div>
