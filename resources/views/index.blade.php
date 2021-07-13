@@ -1,182 +1,260 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<title>Arquitectura y urbanización ecológica</title>
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
-	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
-	<script src="js/jquery-1.6.3.min.js" type="text/javascript"></script>
-	<script src="js/cufon-yui.js" type="text/javascript"></script>
-	<script src="js/cufon-replace.js" type="text/javascript"></script>
-	<script src="js/Kozuka_Gothic_Pro_OpenType_300.font.js" type="text/javascript"></script>
-	<script src="js/Kozuka_Gothic_Pro_OpenType_500.font.js" type="text/javascript"></script>
-	<script src="js/FF-cash.js" type="text/javascript"></script>
-	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-	<script type="text/javascript" src="js/tms-0.3.js"></script>
-	<script type="text/javascript" src="js/tms_presets.js"></script>
-	<script src="js/jcarousellite_1.0.1.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		$(document).ready(function () {
-			$('.carousel .jCarouselLite').jCarouselLite({
-				btnNext: '.carousel .next',
-				btnPrev: '.carousel .prev',
-				speed: 600,
-				easing: 'easeOutQuart',
-				vertical: false,
-				circular: false,
-				visible: 4,
-				start: 0,
-				scroll: 1
-			});
-		});
-	</script>
-<!--[if lt IE 9]>
-<script type="text/javascript" src="js/html5.js"></script>
-<link rel="stylesheet" href="css/ie.css" type="text/css" media="screen">
-<![endif]-->
-</head>
-<body id="page1">
-	<!--==============================header=================================-->
-	<header>
-		<div class="menu-row">
-			<div class="main">
-				<nav class="wrapper">
-					<ul class="menu">
-						<li><a class="active" href="index.blade.php">Inicio</a></li>
-						<li><a href="quienessomos.blade.php">¿Quiénes somos?</a></li>
-						<li><a href="#">Arquitectura y urbanizacion ecologica</a>
-							<ul>
-								<li><a href="arqyeco.blade.php">¿Que es?</a></li>
-								<li><a href="principios.blade.php">Principio</a></li>
-								<li><a href="empresas.blade.php">Empresas</a></li>
+  <head>
+    <title>Arquitectura y urbanización ecológica</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-							</ul>
-						</li> 
-						<li><a href="aplicaccion.blade.php">Aplicación en el mundo</a></li>
-						<li><a href="propuestas.blade.php">Propuestas</a></li>
-						<li><a href="ventajas.blade.php">Ventajas</a></li>
-						<li><a href="contacto.blade.php">Contacto</a></li>
-					</ul>
-				</nav>
-			</div>
-		</div>
-		<div class="row-bot">
-			<div class="row-bot-bg">
-				<div class="main">
-					<div class="wrapper p6">
-						<h1><a href="index.html">Propuestas de arquitectura y urbanización ecologica</a></h1>
-						<h2>Conocenos!</h2>
-					</div>
-					<div class="slider-wrapper">
-						<div class="slider">
-							<ul class="items">
-								<li> <img src="images/slider1.jpg" alt=""> </li>
-								<li> <img src="images/slider2.jpg" alt=""> </li>
-								<li> <img src="images/slider3.jpg" alt=""> </li>            
-							</ul>
-						</div>
-					</div>
-					<div class="wrapper">
-						<figure class="img-indent2"><img src="images/page1-img1.png" alt=""></figure>
-						<div class="extra-wrap"> <strong class="text-1">El calentamiento global es uno (y no el más grave) de los principales problemas ecológicos. Es importante señalar la degradación de hábitats por contaminación, urbanismo y la problemática con las llamadas “especies invasoras”. Por ello ayudemos nuestro planeta Tierra comenzando por nuestro hogar
-							<br>  
-						<strong>"La naturaleza se hace paisaje cuando el hombre la en marca"</strong> </div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</header>
-	<!--==============================aside================================-->
-	<aside>
-		<div class="carousel"> <a class="prev"></a> <a class="next"></a>
-			<div class="carousel-container">
-				<h3>¡Bienvenido!</h3>
-				<div class="jCarouselLite">
-					<ul class="carousel-list">
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img2.jpg" alt="" /></a> </div>
-						</li>
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img3.jpg" alt="" /></a> </div>
-						</li>
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img4.jpg" alt="" /></a> </div>
-						</li>
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img5.jpg" alt="" /></a> </div>
-						</li>
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img6.jpg" alt="" /></a> </div>
-						</li>
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img7.jpg" alt="" /></a> </div>
-						</li>
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img8.jpg" alt="" /></a> </div>
-						</li>
-						<li>
-							<div class="img-border"> <a href="#"><img src="images/page1-img9.jpg" alt="" /></a> </div>
-						</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</aside>
-	<!--==============================content================================-->
-	<section id="content">
-		<div class="main">
-			<div class="container_12">
-				<div class="wrapper">
-					<article class="grid_4">
-						<h3 class="prev-indent-bot">Arquitectura y ecologia</h3>
-						<p class="img-indent-bot">«Yo hago lo que usted no puede, y usted hace lo que yo no puedo. Juntos podemos hacer grandes cosas». <br> Madre Teresa de Calcuta.</p>
-						<a class="button" href="#"><span>Conocer más</span></a> </article>
-						<article class="grid_4">
-							<div class="indent-left">
-								<h3 class="p1">Articulos relevantes</h3>
-								<ul class="list-1">
-									<li><a href="#">Proyecto ecologicó en América</a></li>
-									<li><a href="#">Implementa áreas verdes desde casa</a></li>
-									<li><a href="#">La educación y cuidado del medio ambiente</a></li>
-									<li><a href="#">Convive en áreas verdes</a></li>
-									<li><a href="#">Nueva ciudad ecológica en China</a></li>
-									<li><a href="#">Diseño de centros comerciales con paredes verdes</a></li>
-									<li><a href="#">Participa y plantea tu propuesta</a></li>
-									<li><a href="#">Vacantes en el área ecologica</a></li>
-								</ul>
-							</div>
-						</article>
-						<article class="grid_4">
-							<div class="indent-left2">
-								<h3>Conoce proyectos por el mundo</h3>
-								<figure class="prev-indent-bot"><img src="images/page1-img10.jpg" alt=""></figure>
-								<a class="link-2" href="#">Las mejores estructuras arquitectonicas con gran aportación de urbanización ecol&oacute;gica.</a> </div>
-							</article>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!--==============================footer=================================-->
-			<footer>
-				<div class="main">
-					<div class="aligncenter">
-						<p class="p0"> ArqyEco</p>
-						Arquitectura y urbanización ecológica <a target="_blank" href="http://www.templatemonster.com/">arqyeco.com</a><p class="p0" align="left"> </p>
-						<a href="#" >propuestasarqyeco@gmail.com</a>
-						<img src="images/maps-and-flags.png" width="10dp" height="15dp">
-						<a>Maravatio, Michoacan</a></div>
-					</div>
-				</footer><script type="text/javascript">Cufon.now();</script>
-				<script type="text/javascript">
-					$(window).load(function () {
-						$('.slider')._TMS({
-							duration: 800,
-							easing: 'easeOutQuad',
-							preset: 'diagonalExpand',
-							slideshow: 5000
-						})
-					})
-				</script>
-			</body>
-			</html>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Roboto+Mono:300,400,500"> 
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/mediaelementplayer.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+    <link rel="stylesheet" href="css/fl-bigmug-line.css">
+    
+  
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/style.css">
+    
+  </head>
+  <body>
+  
+  <div class="site-loader"></div>
+  
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+
+    <div class="site-navbar mt-4">
+        <div class="container py-1">
+          <div class="row align-items-center">
+            <div class="col-8 col-md-8 col-lg-4">
+              <h1 class="mb-0"><a href="index.html" class="text-white h2 mb-0"><strong>Homeland<span class="text-danger">.</span></strong></a></h1>
+            </div>
+            <div class="col-4 col-md-4 col-lg-8">
+              <nav class="site-navigation text-right text-md-right" role="navigation">
+
+                <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
+
+                <ul class="site-menu js-clone-nav d-none d-lg-block">
+                  <li class="active">
+                    <a href="index.html">Home</a>
+                  </li>
+                  <li><a href="buy.html">Buy</a></li>
+                  <li><a href="rent.html">Rent</a></li>
+                  <li class="has-children">
+                    <a href="properties.html">Properties</a>
+                    <ul class="dropdown arrow-top">
+                      <li><a href="#">Condo</a></li>
+                      <li><a href="#">Property Land</a></li>
+                      <li><a href="#">Commercial Building</a></li>
+                      <li class="has-children">
+                        <a href="#">Sub Menu</a>
+                        <ul class="dropdown">
+                          <li><a href="#">Menu One</a></li>
+                          <li><a href="#">Menu Two</a></li>
+                          <li><a href="#">Menu Three</a></li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </li>
+                  <li><a href="blog.html">Blog</a></li>
+                  <li><a href="about.html">About</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                </ul>
+              </nav>
+            </div>
+           
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="slide-one-item home-slider owl-carousel">
+
+      <div class="site-blocks-cover overlay" style="background-image: url(images/slider1.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row align-items-center justify-content-center text-center">
+            <div class="col-md-10">
+              <h1 class="mb-2">Arquitectura y urbanización ecológica</h1>
+             
+            </div>
+          </div>
+        </div>
+      </div>  
+
+      <div class="site-blocks-cover overlay" style="background-image: url(images/Slider_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
+        <div class="container">
+          <div class="row align-items-center justify-content-center text-center">
+            <div class="col-md-10">
+              <h1 class="mb-2">Arquitectura y urbanización ecológica</h1>
+              
+            </div>
+          </div>
+        </div>
+      </div>  
+
+    </div>
+      </div>
+    </div>
+    <div class="site-section">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md-7 text-center">
+            <div class="site-section-title">
+              <h2>¡Bienvenido!</h2>
+            </div>
+            <p>El calentamiento global es uno (y no el más grave) de los principales problemas ecológicos. Es importante señalar la degradación de hábitats por contaminación, urbanismo y la problemática con las llamadas “especies invasoras”. Por ello ayudemos nuestro planeta Tierra comenzando por nuestro hogar</p>
+              <br>  
+              <br>
+           <strong> "La naturaleza se hace paisaje cuando el hombre la enmarca"</strong>
+          </div>
+        </div>
+
+    </div>
+      <br>  
+              <br>
+    <div class="site-section site-section-sm bg-light">
+      <div class="container">
+      
+        <div class="row mb-5">
+          <div class="col-md-6 col-lg-4 mb-4">
+            <div class="property-entry h-100">
+              <a href="property-details.html" class="property-thumbnail">
+                                <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+              </a>
+              <div class="p-4 property-body">
+                <a href="#" class="property-favorite"><span class="icon-heart-o"></span></a>
+
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4">
+            <div class="property-entry h-100">
+              <a href="property-details.html" class="property-thumbnail">
+                <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+              </a>
+              <div class="p-4 property-body">
+                <a href="#" class="property-favorite active"><span class="icon-heart-o"></span></a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-4">
+            <div class="property-entry h-100">
+              <a href="property-details.html" class="property-thumbnail">
+                <img src="images/img_3.jpg" alt="Image" class="img-fluid">
+              </a>
+              <div class="p-4 property-body">
+                <a href="#" class="property-favorite"><span class="icon-heart-o"></span></a>
+              </div>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+    <footer class="site-footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <div class="mb-5">
+              <h3 class="footer-heading mb-4">About Homeland</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe pariatur reprehenderit vero atque, consequatur id ratione, et non dignissimos culpa? Ut veritatis, quos illum totam quis blanditiis, minima minus odio!</p>
+            </div>
+
+            
+            
+          </div>
+          <div class="col-lg-4 mb-5 mb-lg-0">
+            <div class="row mb-5">
+              <div class="col-md-12">
+                <h3 class="footer-heading mb-4">Navigations</h3>
+              </div>
+              <div class="col-md-6 col-lg-6">
+                <ul class="list-unstyled">
+                  <li><a href="#">Home</a></li>
+                  <li><a href="#">Buy</a></li>
+                  <li><a href="#">Rent</a></li>
+                  <li><a href="#">Properties</a></li>
+                </ul>
+              </div>
+              <div class="col-md-6 col-lg-6">
+                <ul class="list-unstyled">
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="#">Privacy Policy</a></li>
+                  <li><a href="#">Contact Us</a></li>
+                  <li><a href="#">Terms</a></li>
+                </ul>
+              </div>
+            </div>
+
+
+          </div>
+
+          <div class="col-lg-4 mb-5 mb-lg-0">
+            <h3 class="footer-heading mb-4">Follow Us</h3>
+
+                <div>
+                  <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
+                  <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
+                  <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
+                  <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
+                </div>
+
+            
+
+          </div>
+          
+        </div>
+        <div class="row pt-5 mt-5 text-center">
+          <div class="col-md-12">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+          </div>
+          
+        </div>
+      </div>
+    </footer>
+
+  </div>
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/mediaelement-and-player.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/aos.js"></script>
+
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
