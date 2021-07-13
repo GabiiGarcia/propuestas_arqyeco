@@ -79,9 +79,9 @@
 					</div>
 					<div class="wrapper">
 						<figure class="img-indent2"><img src="images/page1-img1.png" alt=""></figure>
-						<div class="extra-wrap"> <strong class="text-1">El calentamiento global es uno (y no el más grave) de los principales problemas ecológicos. Es importante señalar la degradación de hábitats por contaminación, urbanismo y la problemática con las llamadas “especies invasoras”. Porello ayudemos nuestro planeta Tierra comenzando por nuestro hogar
+						<div class="extra-wrap"> <strong class="text-1">El calentamiento global es uno (y no el más grave) de los principales problemas ecológicos. Es importante señalar la degradación de hábitats por contaminación, urbanismo y la problemática con las llamadas “especies invasoras”. Por ello ayudemos nuestro planeta Tierra comenzando por nuestro hogar
 							<br>  
-						"La naturaleza se hace paisaje cuando el hombre la enmarca"</strong> </div>
+						<strong>"La naturaleza se hace paisaje cuando el hombre la en marca"</strong> </div>
 					</div>
 				</div>
 			</div>
@@ -151,7 +151,7 @@
 							<div class="indent-left2">
 								<h3>Conoce proyectos por el mundo</h3>
 								<figure class="prev-indent-bot"><img src="images/page1-img10.jpg" alt=""></figure>
-								<a class="link-2" href="#">Las mejores estructuras arquitectonicas con gran aportación de urbanización ecológica.</a> </div>
+								<a class="link-2" href="#">Las mejores estructuras arquitectonicas con gran aportación de urbanización ecol&oacute;gica.</a> </div>
 							</article>
 						</div>
 					</div>

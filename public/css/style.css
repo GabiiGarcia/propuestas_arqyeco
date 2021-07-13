@@ -237,6 +237,34 @@ h2 {
 .menu li a.active, .menu > li > a:hover {
 	color:#fff;
 }
+
+.menu li:hover ul,
+.menu li.sfHover ul {
+    display:block;
+    left:           0;
+    top:            45px; /* match top ul list item height */
+    z-index:        99;
+    -webkit-box-shadow:  2px 3px 2px 0px rgba(00, 00, 00, .3);
+    box-shadow:  2px 3px 2px 0px rgba(00, 00, 00, .3);
+}
+ul.menu li:hover li ul,
+ul.menu li.sfHover li ul {
+    top:            -999em;
+}
+ul.menu li li:hover ul,
+ul.menu li li.sfHover ul {
+    left:           12em; /* match ul width */
+    top:            0;
+}
+ul.menu li li:hover li ul,
+ul.menu li li.sfHover li ul {
+    top:            -999em;
+}
+ul.menu li li li:hover ul,
+ul.menu li li li.sfHover ul {
+    left:           12em; /* match ul width */
+    top:            0;
+}
 /***** slider *****/
 .slider-wrapper {
 	width:920px;
