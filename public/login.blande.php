@@ -25,7 +25,7 @@
     <link rel="stylesheet" href="css/style.css">
     
   </head>
-  <body>
+  <body <img src="images/slider1.jpg" alt="">>
   
   <div class="site-loader"></div>
   
@@ -40,7 +40,10 @@
       <div class="site-mobile-menu-body"></div>
     </div> <!-- .site-mobile-menu -->
 
-    <div class="site-navbar mt-4">
+    
+           
+
+        <div class="site-navbar mt-4">
         <div class="container py-1">
           <div class="row align-items-center">
             <div class="col-8 col-md-8 col-lg-4">
@@ -52,7 +55,7 @@
                 <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#" class="site-menu-toggle js-menu-toggle text-white"><span class="icon-menu h3"></span></a></div>
 
                 <ul class="site-menu js-clone-nav d-none d-lg-block">
-                  <li>
+                  <li class="active">
                     <a href="index.html">Home</a>
                   </li>
                   <li><a href="buy.html">Buy</a></li>
@@ -75,7 +78,7 @@
                   </li>
                   <li><a href="blog.html">Blog</a></li>
                   <li><a href="about.html">About</a></li>
-                  <li class="active"><a href="contact.html">Contact</a></li>
+                  <li><a href="contacto.blade.php">Contacto</a></li>
                 </ul>
               </nav>
             </div>
@@ -86,40 +89,19 @@
       </div>
     </div>
 
-    <div class="site-blocks-cover inner-page-cover overlay" style="background-image: url(images/hero_bg_2.jpg);" data-aos="fade" data-stellar-background-ratio="0.5">
-      <div class="container">
-        <div class="row align-items-center justify-content-center text-center">
-          <div class="col-md-10">
-            <h1 class="mb-2">Contact Us</h1>
-          </div>
-        </div>
-      </div>
-    </div>
     
 
     <div class="site-section">
       <div class="container">
-        <div class="row">
-       
-          <div class="col-md-12 col-lg-8 mb-5">
-          
+        
+          <div class="row justify-content-center">
             
           
-            <form action="#" class="p-5 bg-white border">
-
-              <div class="row form-group">
-                <div class="col-md-12 mb-3 mb-md-0">
-                  <label class="font-weight-bold" for="fullname">Nombre</label>
-                  <input type="text" id="name" class="form-control" >
-                </div>
-              </div>
+            <center><form action="#" class="p-5 bg-white border">
               <div class="row form-group">
                 <div class="col-md-12">
-                  <label class="font-weight-bold" for="email">apellidos</label>
-                  <input type="text" id="apell" class="form-control" >
+                  <img src="images/pngwing.png" width="150px" height="150px">
                 </div>
-              </div>
-              <div class="row form-group">
                 <div class="col-md-12">
                   <label class="font-weight-bold" for="email">Correo electrónico</label>
                   <input type="email" id="email" class="form-control" >
@@ -127,43 +109,28 @@
               </div>
               <div class="row form-group">
                 <div class="col-md-12">
-                  <label class="font-weight-bold" for="message">Mensaje</label> 
-                  <textarea name="message" id="message" cols="30" rows="5" class="form-control" ></textarea>
+                  <label class="font-weight-bold" for="message">Contraseña</label> 
+                  <input type="password" id="contraseña" class="form-control" >
                 </div>
               </div>
 
               <div class="row form-group">
                 <div class="col-md-12">
-                  <input type="submit" value="Envíar" class="btn btn-primary  py-2 px-4 rounded-0">
+                  <center><input type="submit" value="Envíar" class="btn btn-primary  py-2 px-4 rounded-0"></center>
                 </div>
               </div>
 
   
             </form>
+          </center>
           </div>
 
-          <div class="col-lg-4">
-            <div class="p-4 mb-3 bg-white">
-              <h3 class="h6 text-black mb-3 text-uppercase">Información de contacto</h3>
-              <p class="mb-0 font-weight-bold">Dirección</p>
-              <p class="mb-4">Maravatio, Michoacan</p>
-
-              <p class="mb-0 font-weight-bold">Teléfono</p>
-              <p class="mb-4"><a href="#">+52 447 121 3425</a></p>
-
-              <p class="mb-0 font-weight-bold">Correo electrónico</p>
-              <p class="mb-0"><a href="#">arqyeco@gmail.com</a></p>
-
-            </div>
+          
             
           </div>
         </div>
       </div>
     </div>
-
-    <div class="site-section">
-      <div class="container">
-      <center><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7503.467121265492!2d-100.44638237820452!3d19.893469485140166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85d2d09d28f95e93%3A0x91a0d188ce6d3241!2sCentro%2C%20Maravatio%2C%20Mich.!5e0!3m2!1ses-419!2smx!4v1626187929416!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></center>
     </div>
   </div>
     
@@ -175,61 +142,24 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="mb-5">
-              <h3 class="footer-heading mb-4">About Homeland</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe pariatur reprehenderit vero atque, consequatur id ratione, et non dignissimos culpa? Ut veritatis, quos illum totam quis blanditiis, minima minus odio!</p>
-            </div>
-          </div>
-          <div class="col-lg-4 mb-5 mb-lg-0">
-            <div class="row mb-5">
+              <h3 class="footer-heading mb-4">ArqyEco</h3>
               <div class="col-md-12">
-                <h3 class="footer-heading mb-4">Navigations</h3>
-              </div>
-              <div class="col-md-6 col-lg-6">
-                <ul class="list-unstyled">
-                  <li><a href="#">Home</a></li>
-                  <li><a href="#">Buy</a></li>
-                  <li><a href="#">Rent</a></li>
-                  <li><a href="#">Properties</a></li>
-                </ul>
-              </div>
-              <div class="col-md-6 col-lg-6">
-                <ul class="list-unstyled">
-                  <li><a href="#">About Us</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
-                  <li><a href="#">Contact Us</a></li>
-                  <li><a href="#">Terms</a></li>
-                </ul>
-              </div>
-            </div>
-
-
-          </div>
-
-          <div class="col-lg-4 mb-5 mb-lg-0">
-            <h3 class="footer-heading mb-4">Follow Us</h3>
-
-                <div>
-                  <a href="#" class="pl-0 pr-3"><span class="icon-facebook"></span></a>
-                  <a href="#" class="pl-3 pr-3"><span class="icon-twitter"></span></a>
-                  <a href="#" class="pl-3 pr-3"><span class="icon-instagram"></span></a>
-                  <a href="#" class="pl-3 pr-3"><span class="icon-linkedin"></span></a>
-                </div>
-
-            
-
-          </div>
-          
-        </div>
-        <div class="row pt-5 mt-5 text-center">
-          <div class="col-md-12">
             <p>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            Arquitectura y urbanización ecológica <a target="_blank" href="http://www.templatemonster.com/">arqyeco.com</a>  |  <a href="https://colorlib.com" target="_blank">propuestasarqyeco@gmail.com <i class="icon-heart "  aria-hidden="true"></i></a>
+             Maravatio, Michoacan <img src="images/maps-and-flags.png" width="20dp">
+             <br>By <a target="_blank" href="http://www.templatemonster.com/">Gabriela Albino - Jacqueline Estrella</a>
             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            </p>
+            </br>
+          </div>
+          
+            </div>
+
+
           </div>
           
         </div>
+        
       </div>
     </footer>
 
