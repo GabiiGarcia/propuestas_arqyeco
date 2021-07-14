@@ -3798,6 +3798,16 @@
 .icon-room:before {
   content: "\e8b4";
 }
+
+.icon-dislike:before {
+  content: "\e8db";
+}
+.icon-like:before {
+  content: "\e8dc";
+}
+.icon-com:before {
+  content: "\e24c";
+  
 .icon-lock_open:before {
   content: "\e898";
 }
