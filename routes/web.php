@@ -17,4 +17,4 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::post('/', 'PageController@crear')->name('comentarios.crear');
+Route::post('/contacto.html', 'PageController@crear')->name('comentarios.crear');
